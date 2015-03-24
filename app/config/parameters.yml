@@ -1,8 +1,8 @@
 # This file is auto-generated during the composer install
 parameters:
     database_driver: pdo_mysql
-    database_host: 'us-cdbr-iron-east-02.cleardb.net'
-    database_name: heroku_8c79ef53dba30c2 
+    database_host: us-cdbr-iron-east-02.cleardb.net
+    database_name: heroku_8c79ef53dba30c2
     database_user: b0220953302f2c
     database_password: 79c83399
     mailer_transport: smtp
