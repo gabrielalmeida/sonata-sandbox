@@ -13,6 +13,7 @@
     "require": {
         "php": ">=5.3.3",
         "ext-bcmath" : "*",
+        "ext-intl" : "*",
 
         "twig/twig": "~1.12",
         "twig/extensions": "~1.0",
